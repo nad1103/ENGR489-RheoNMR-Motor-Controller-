@@ -10,8 +10,11 @@ The study of rheology using Nuclear Magnetic Resonance (NMR) methods and techniq
 To perform a Rheo-NMR experiment in a commercial NMR spectrometer, a Rheo-NMR accessory is needed. This accessory creates the essential rheological environments for the material under study, allowing an extensive range of samples and behaviour to be measured. The Bruker Rheo-NMR system contains everything required to immediately perform Rheo-NMR experiments with a Bruker NMR spectrometer. Although the system is distributed by Bruker, it is actually designed, manufactured and supported by Viclink.
 
 The Rheo-NMR systems includes:
+
 •	Rheo-NMR Controller
+
 •	Motor & Drive-shaft
+
 •	Shear Cell Kit
 
 For this project, our focus is the Rheo-NMR controller. This controller drives the motor at the required rate and can accept signals from a range of sources, such as the spectrometer. Thus, the Rheo-NMR system can be driven directly from the spectrometer’s pulse programs.
